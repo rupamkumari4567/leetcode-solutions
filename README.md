@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0345-reverse-vowels-of-a-string](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
