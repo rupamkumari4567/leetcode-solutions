@@ -5,7 +5,6 @@ public:
 
         for(int l=n/2; l>=1; l--){
             if(n%l==0){
-                //return true;
 
             }
             int times=n/l;
