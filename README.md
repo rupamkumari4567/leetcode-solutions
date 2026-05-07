@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0966-vowel-spellchecker](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0966-vowel-spellchecker) |
 ## Trie
 |  |
