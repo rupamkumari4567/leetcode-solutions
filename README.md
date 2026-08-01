@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0066-plus-one) |
 | [0966-vowel-spellchecker](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0966-vowel-spellchecker) |
 ## String
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0392-is-subsequence) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
