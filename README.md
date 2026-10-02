@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0066-plus-one) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0412-fizz-buzz) |
 ## Backtracking
 |  |
 | ------- |
@@ -93,4 +95,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0257-binary-tree-paths) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/rupamkumari4567/leetcode-solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
